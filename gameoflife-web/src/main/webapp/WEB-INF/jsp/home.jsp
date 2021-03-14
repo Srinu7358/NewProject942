@@ -4,7 +4,7 @@
 <%@page import="java.util.Properties" %>
 <html>
 <head>
-    <title>Ansible Srinu Deployment</title>
+    <title>Ansible Varshini Deployment</title>
     <!--  TODO: Don't inline this -->
     <style type="text/css">
         h2 {
@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Ansible Srinu Ansible Srinu Deployment</h2>
+<h2>Ansible Varshini Deployment</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
